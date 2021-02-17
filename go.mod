@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/atotto/clipboard v0.1.2
-	github.com/ljshark/bubbletea v0.12.2
+	github.com/ljshark/bubbletea v0.12.5
 	github.com/lucasb-eyer/go-colorful v1.0.3
 	github.com/mattn/go-runewidth v0.0.9
 	github.com/muesli/reflow v0.2.0
